@@ -1,1 +1,1 @@
-wget "www.google.com"
+curl "www.google.com"
